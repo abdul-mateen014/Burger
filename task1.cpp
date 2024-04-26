@@ -16,16 +16,7 @@ int main()
 	cout << "\nSquare Display\n\n";
 	
 	
-	for (i = 1; i <= num; i++)
-	{
-		cout << "\t";
-
-		for (j = 1; j <= num; j++)
-		{
-			cout << "X";
-		}
-		cout << endl;
-	}
+	
 
 	return 0;
 
